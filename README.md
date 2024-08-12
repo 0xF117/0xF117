@@ -7,7 +7,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?&font=Fira+Code&color=e6c176&&center=true&lines=0xF117_was_here."/>
     </a>
 </p>
-<p>Hi, I'm Mert. I am a student trying to improve myself in the field of cybersecurity.</p>
+<p>Hi, I'm Eren. I am a student trying to improve myself in the field of cybersecurity.</p>
 <hr>
 <br>
 <p>
